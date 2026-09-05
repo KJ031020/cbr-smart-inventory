@@ -1,0 +1,1 @@
+Inventory item images folder
